@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="topkernel0.1"
+CONFIG_LOCALVERSION=" topkernel 1.0"
 #CONFIG_LOCALVERSION_AUTO is not set
 
 ####################################
